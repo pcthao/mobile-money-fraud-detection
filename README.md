@@ -48,8 +48,7 @@ Test recall at a fixed false-positive rate:
 ├── DATA_GENERATION.md
 ├── 01_eda_and_baseline.ipynb     # scoping, leak checks, time split, rules baseline
 ├── 02_features.ipynb             # history features
-├── 03_models.ipynb               # logistic regression, XGBoost, ROC comparison, SHAP 
-└── data/                         # generated PaySim output (not committed; see DATA_GENERATION.md)
+└── 03_models.ipynb               # logistic regression, XGBoost, ROC comparison, SHAP 
 ```
 
 **Tools:** Python, pandas, scikit-learn, XGBoost, SHAP, Matplotlib
